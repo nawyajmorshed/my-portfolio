@@ -1,0 +1,15 @@
+{
+  "name": "nawyajmorshed-portfolio",
+  "version": "1.0.0",
+  "description": "Nawyaj Morshed - High-Performance Cinematic Portfolio & CMS",
+  "scripts": {
+    "dev": "npx serve .",
+    "deploy": "npx wrangler pages deploy ."
+  },
+  "dependencies": {
+    "motion": "^12.42.2"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
